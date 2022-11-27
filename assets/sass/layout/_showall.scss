@@ -1,0 +1,92 @@
+.showAll{
+    height: 1900px;
+    width: 100%;
+}
+
+
+
+.showAllPage{
+width: 100%;
+height: 90px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+
+}
+
+.showAllPage ul {
+
+height: 32px;
+display: flex;
+
+
+}
+
+.showAllPage li {
+
+margin:60px;
+padding: 0;
+display: flex;
+justify-content: center;
+float: left;
+margin-top: 28px;
+cursor: pointer;
+
+}
+.showAllPage a{
+    text-decoration: none;
+    color: #391400;
+
+}
+@media screen and (max-width: 800px) {
+    .showAllPage{
+        font-size: 12px;
+        width: 60%;
+
+    }
+    li{
+        margin: 20px;
+    }
+  
+    }
+
+
+.container{
+    margin: auto;
+    margin-top: 90px;
+    height: 100vh;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+    .card{
+
+       height: 416px;
+       width: 370px;
+        background-color: rgb(88, 73, 73);
+        box-sizing: border-box;
+        border: 1px solid rgb(194, 65, 65);
+        border-radius: 6px;  
+        display: flex;
+        position: relative;
+        margin: 32px;
+    
+
+        
+        
+    }
+
+.items
+    {
+position: absolute;
+width: 161px;
+height: 48px;
+margin-top: 300px;
+margin-left: 50px;
+color: white;
+    }
+   

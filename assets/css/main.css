@@ -1,0 +1,589 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+.menu {
+  font-family: "Epilogue", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.agency {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  height: 32px;
+  right: 0%;
+  top: calc(50% - 16px + 1px);
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.agency a {
+  text-decoration: none;
+  color: white;
+}
+
+.contactbtn {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 14px;
+  top: calc(50% - 16px + 1px);
+}
+
+.portfolio {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 80px;
+  color: white;
+}
+
+.textAgency {
+  font-family: Epilogue;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.64);
+}
+
+.showAllPage {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.items {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.btn-loadmore {
+  font-family: Epilogue;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.dreamprojectpage .help {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: -1px;
+  color: #FFFFFF;
+  width: 368px;
+  height: 192px;
+  margin-left: 100px;
+  margin-top: 96px;
+}
+
+.dreamprojectpage .digital {
+  position: absolute;
+  width: 470px;
+  height: 66px;
+  margin-left: 100px;
+  margin-top: -20px;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 0.64);
+}
+
+.btn-contactnow {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.btn {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.footeragency {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.footermenu {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.footermenu a {
+  text-decoration: none;
+  color: black;
+}
+
+.footermenu li {
+  list-style-type: none;
+}
+
+.footermenu .menured a {
+  color: #EF6D58;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.footermenu2 {
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.footermenu2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.footermenu2 li {
+  list-style-type: none;
+}
+
+.footermenu2 .servicesred a {
+  color: #EF6D58;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.icons {
+  font-size: 38px;
+  color: #EF6D58;
+}
+
+.copyright {
+  position: absolute;
+  width: 351px;
+  height: 32px;
+  left: 135px;
+  top: 3400px;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(57, 20, 0, 0.64);
+}
+
+.terms {
+  position: absolute;
+  width: 102px;
+  height: 32px;
+  left: 1030px;
+  top: 3400px;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: right;
+  color: #391400;
+}
+
+.policy {
+  position: absolute;
+  width: 105px;
+  height: 32px;
+  left: 1200px;
+  top: 3400px;
+  font-family: "Epilogue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: right;
+  color: #391400;
+}
+
+.contactbtn {
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 6px;
+  height: 48px;
+  width: 138px;
+  border-width: 1px;
+  position: absolute;
+  right: 171px;
+  top: 52px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btn {
+  height: 36px;
+  width: 84px;
+  border-radius: 19px;
+  border-color: transparent;
+  margin-top: 234px;
+  margin-left: 50px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.btn-loadmore {
+  height: 48px;
+  width: 170px;
+  border-radius: 6px;
+  border-color: transparent;
+  margin-top: 50px;
+  margin-left: 50px;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  box-shadow: 0px 3px 9px rgba(57, 20, 0, 0.08);
+}
+
+.btn-contactnow {
+  position: absolute;
+  height: 48px;
+  width: 170px;
+  border-radius: 6px;
+  border-color: transparent;
+  margin-top: 420px;
+  margin-left: -1050px;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  box-shadow: 0px 3px 9px rgba(57, 20, 0, 0.08);
+}
+
+.footeragency {
+  position: absolute;
+  width: 90px;
+  height: 32px;
+  left: 90px;
+  top: 3070px;
+}
+
+footer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  text-decoration: none;
+}
+
+.footermenu {
+  position: absolute;
+  left: 450px;
+  margin-top: -112px;
+}
+
+.footermenu2 {
+  position: absolute;
+  left: 900px;
+  margin-top: -112px;
+}
+
+.icons {
+  position: absolute;
+  left: 1350px;
+  margin-top: -112px;
+}
+
+hr {
+  margin-top: -600px;
+  width: 90%;
+}
+
+.dreamProject {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.dreamprojectpage {
+  width: 90%;
+  height: 544px;
+  background: #EF6D58;
+  border-radius: 6px;
+  top: 1000px;
+}
+
+img {
+  position: absolute;
+  margin-left: 286px;
+  margin-top: 50px;
+}
+
+.footeragency {
+  position: absolute;
+  width: 90px;
+  height: 32px;
+  left: 90px;
+  top: 3070px;
+}
+
+footer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  text-decoration: none;
+}
+
+.footermenu {
+  position: absolute;
+  left: 450px;
+  margin-top: -112px;
+}
+
+.footermenu2 {
+  position: absolute;
+  left: 900px;
+  margin-top: -112px;
+}
+
+.icons {
+  position: absolute;
+  left: 1350px;
+  margin-top: -112px;
+}
+
+hr {
+  margin-top: -600px;
+  width: 90%;
+}
+
+nav {
+  width: 100%;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+nav ul {
+  height: 32px;
+  display: flex;
+}
+
+nav li {
+  margin: 55px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  float: left;
+  margin-top: 28px;
+  cursor: pointer;
+}
+
+.agency {
+  position: absolute;
+  height: 32px;
+  width: 90px;
+  left: 197px;
+  top: 18px;
+  cursor: pointer;
+}
+
+.logo {
+  position: absolute;
+  height: 48px;
+  width: 48px;
+  left: 0;
+}
+
+.logo1 {
+  position: absolute;
+  margin-left: 149px;
+  top: 0px;
+}
+
+.logo2 {
+  position: absolute;
+  margin-left: 135px;
+  top: -15px;
+}
+
+.bar {
+  position: absolute;
+  color: white;
+  font-size: 28px;
+  cursor: pointer;
+  height: 48px;
+  width: 48px;
+  right: 0;
+  top: 56px;
+  display: none;
+  margin-right: 135px;
+}
+
+@media screen and (max-width: 1300px) {
+  .navbar li {
+    display: none;
+  }
+  .navbar button {
+    display: none;
+  }
+  .navbar .bar {
+    display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .navbar li {
+    display: none;
+  }
+  .navbar button {
+    display: none;
+  }
+  .navbar .bar {
+    margin-right: 0;
+    display: block;
+  }
+  .agency {
+    left: 80px;
+  }
+  .logo1 {
+    margin-left: 39px;
+  }
+  .logo2 {
+    margin-left: 25px;
+  }
+}
+.portfolio {
+  position: absolute;
+  top: 164px;
+  height: 80px;
+}
+
+.textAgency {
+  position: absolute;
+  top: 370px;
+  height: 66px;
+  width: 570px;
+}
+
+@media screen and (max-width: 600px) {
+  .portfolio {
+    font-size: 56px;
+  }
+  .textAgency {
+    font-size: 16px;
+    width: 300px;
+  }
+}
+.showAll {
+  height: 1900px;
+  width: 100%;
+}
+
+.showAllPage {
+  width: 100%;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.showAllPage ul {
+  height: 32px;
+  display: flex;
+}
+
+.showAllPage li {
+  margin: 60px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  float: left;
+  margin-top: 28px;
+  cursor: pointer;
+}
+
+.showAllPage a {
+  text-decoration: none;
+  color: #391400;
+}
+
+@media screen and (max-width: 800px) {
+  .showAllPage {
+    font-size: 12px;
+    width: 60%;
+  }
+  li {
+    margin: 20px;
+  }
+}
+.container {
+  margin: auto;
+  margin-top: 90px;
+  height: 100vh;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+}
+
+.card {
+  height: 416px;
+  width: 370px;
+  background-color: rgb(88, 73, 73);
+  box-sizing: border-box;
+  border: 1px solid rgb(194, 65, 65);
+  border-radius: 6px;
+  display: flex;
+  position: relative;
+  margin: 32px;
+}
+
+.items {
+  position: absolute;
+  width: 161px;
+  height: 48px;
+  margin-top: 300px;
+  margin-left: 50px;
+  color: white;
+}
+
+.home {
+  background-color: #28293e;
+  display: flex;
+  justify-content: center;
+  height: 520px;
+  position: relative;
+}/*# sourceMappingURL=main.css.map */
